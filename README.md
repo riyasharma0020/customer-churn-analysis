@@ -1,10 +1,10 @@
-# 📊 Customer Churn Analysis Dashboard — Excel Project
+# Customer Churn Analysis Dashboard — Excel Project
 
 This project presents an interactive dashboard that analyzes telecom customer churn using Microsoft Excel. It provides actionable insights into customer behavior, helping businesses understand why customers leave and how to reduce churn.
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 
 Customer churn is a major concern for subscription-based businesses. Reducing churn can significantly improve profitability. This dashboard explores churn patterns to:
 
@@ -14,7 +14,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 - **Name:** Telco Customer Churn
 - **Source:** Kaggle / IBM Sample Dataset
@@ -27,7 +27,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Create a professional **Excel Dashboard**
 - Analyze customer churn trends
@@ -36,9 +36,9 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 📌 Features Implemented
+## Features Implemented
 
-### ✅ Dashboard Components:
+### Dashboard Components:
 - **Pivot Tables** and **Pivot Charts** for dynamic analysis
 - **Slicers** for filtering:
   - Gender
@@ -47,7 +47,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
   - Senior Citizen Status
 - **Interactive Charts**: Bar chart, Pie chart, and Line chart views
 
-### ✅ Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
 - **Total Customers** → `=COUNTA('Churn by Gender'!A:A)`
 - **Churned Customers** → `=COUNTIF(telco_customer_churn!W:W, "Yes")`
 - **Average Monthly Charges** → `=IFERROR(AVERAGEIF('Churn by Gender'!T:T, ">0"), "No Data")`
@@ -56,7 +56,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 🔍 Insights Extracted
+## Insights Extracted
 
 - Senior citizens have a higher churn rate.
 - Month-to-month contract users are more likely to leave.
@@ -66,7 +66,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 - **Microsoft Excel**
 - Pivot Tables & Pivot Charts
@@ -77,7 +77,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File Name | Description |
 |-----------|-------------|
@@ -87,7 +87,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Build a Python version using Pandas, Matplotlib & Seaborn
 - Perform full **EDA (Exploratory Data Analysis)**
@@ -96,7 +96,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to analyze data using Excel
 - Creating clean, dynamic dashboards
@@ -106,7 +106,7 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## ▶️ How to Use This Project
+##  How to Use This Project
 
 1. Download the `.xlsx` file
 2. Open it in **Microsoft Excel**
@@ -116,14 +116,14 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 Let’s connect professionally!
 
-- 🔗 [LinkedIn] : (https://www.linkedin.com/in/riya-sharma20/)
-- 📧 Email: riyaasharma0020@gmail.com
-- 🗃️ GitHub: https://github.com/riyasharma0020
+  [LinkedIn] : (https://www.linkedin.com/in/riya-sharma20/)
+  Email: riyaasharma0020@gmail.com
+  GitHub: https://github.com/riyasharma0020
 
 ---
 
-> 💡 _If you like this project, consider giving it a ⭐ and sharing your feedback!_
+> _If you like this project, consider giving it a and sharing your feedback!_
